@@ -1,6 +1,6 @@
 package dsa;
 
-public class ReverseString {
+public class ReverseCharString {
 
 	public static void main(String[] args) {
 		String s="this is Rishabh";
