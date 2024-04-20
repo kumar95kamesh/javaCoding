@@ -13,7 +13,7 @@ public class PaperQuestion {
 		int[] arr= {2,-4,3,4,-6};
 		int [][] mat=new int[1][2];
 		int s = mat.length;
-		m
+		
 
 	}
 
